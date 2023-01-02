@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url("./Images/Body.jpeg");
+    background-size: cover;
+}
+.Nav {
+    /* float: left; */
+    margin-top: 0px;
+    height: 60px;
+    display: block;
+    background-color: black;
+    margin: 0px;    
+}
+.Nav p {
+    width: 15%;
+    /* overflow: hidden; */
+    display: block;
+    color: aliceblue;
+    background-color: black;
+    float:left;
+    text-align: center;
+    padding: 14px ;
+    opacity: 85%;
+}
+a {
+    color: aliceblue;
+    text-underline-offset: 1px;
+}
+#loginbu {
+    margin: auto;
+    padding: 14px;
+    border-radius: 20px 20px;
+    font-size: 20px;
+    background-color:red;
+    cursor: pointer;
+    
+}
+#signbu {
+    margin: auto;
+    padding: 14px;
+    border-radius: 20px 20px;
+    font-size: 20px;
+    background-color:red;
+    cursor: pointer;
+}
+.blockOne {
+    background-color: black;
+    width: 30%;
+    height: 250px;
+    float:left;
+    margin: 250px 20px;
+    text-align: center;
+
+}
+.blocktwo {
+    background-color: black;
+    width: 30%;
+    height: 250px;
+    float:left;
+    margin: 250px 20px;
+    text-align: center;
+}
+.blockthree {
+    background-color: black;
+    width: 30%;
+    height: 250px;
+    float:left;
+    margin: 250px 20px;
+    text-align: center;
+}
+.conImage {
+    display: inline-block;
+    
+    padding-top: 30px; 
+    /* margin-bottom: 10px; */
+    width: 300px;
+    height: 300px;
+}
+.img1 {
+    /* margin-bottom: 15px; */
+    float: right;
+    width:  45%;
+    height:  55%;
+}
+.img2 {
+    float: left;
+    width: 45%;
+    height: 55%;
+}
+.titleOfBook {
+    font-size: 30px;
+    color: white;
+}
